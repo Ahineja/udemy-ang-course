@@ -1,0 +1,31 @@
+// Colors
+$primary-color: #1976d2;
+$secondary-color: #424242;
+$accent-color: #ff4081;
+$background-white: #ffffff;
+$text-dark: #333333;
+$text-light: #666666;
+
+// Typography
+$font-family-base: "Segoe UI", Roboto, sans-serif;
+$font-size-base: 16px;
+$line-height-base: 1.6;
+
+// Spacing
+$spacing-unit: 8px;
+$container-padding: $spacing-unit * 2;
+
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// Z-index
+$z-index-dropdown: 1000;
+$z-index-sticky: 1020;
+$z-index-fixed: 1030;
+$z-index-modal-backdrop: 1040;
+$z-index-modal: 1050;
+$z-index-popover: 1060;
+$z-index-tooltip: 1070;
